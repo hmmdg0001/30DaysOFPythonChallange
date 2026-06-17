@@ -26,5 +26,3 @@ distance1 = math.dist(euclidean1, euclidean2)
 distance2 = math.dist(euclidean3, euclidean4)
 print("Euclidean distance from vector 1 is: " + str(distance1))
 print("Euclidean distance from vector 2 is: " + str(distance2))
-
-
